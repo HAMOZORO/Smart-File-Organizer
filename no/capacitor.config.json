@@ -1,0 +1,8 @@
+{
+  "appId": "com.smartfileorganizer.app",
+  "appName": "Smart File Organizer Pro",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}
